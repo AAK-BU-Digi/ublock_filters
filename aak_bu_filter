@@ -1,6 +1,15 @@
 ! Læringsplatformen MoMo
-@@||systematic-momo.dk/^
-@@||systematic-momo.com/^
+@@systematic-momo.dk$all
+@@systematic-momo.dk$shide,ghide
+systematic-momo.dk#@#+js()
 
-Forlag Alinea
+@@systematic-momo.com$all
+@@systematic-momo.com$shide,ghide
+systematic-momo.com#@#+js()
+
+! Forlag Alinea
 @@|alinea.dk/^
+@@alinea.dk$all
+@@alinea.dk$shide,ghide
+alinea.dk#@#+js()
+
