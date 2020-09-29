@@ -1,16 +1,16 @@
 ! Læringsplatformen MoMo
 @@systematic-momo.dk$all
 @@systematic-momo.dk$shide,ghide
-systematic-momo.dk#@#+js()
-systematic-momo.dk/assets/js/newrelic.js
+@@systematic-momo.dk#@#+js()
+@@systematic-momo.dk/assets/js/newrelic.js
 
 @@systematic-momo.com$all
 @@systematic-momo.com$shide,ghide
-systematic-momo.com#@#+js()
-systematic-momo.com/assets/js/newrelic.js
+@@systematic-momo.com#@#+js()
+@@systematic-momo.com/assets/js/newrelic.js
 
 ! Forlag Alinea
 @@alinea.dk$all
 @@alinea.dk$shide,ghide
-alinea.dk#@#+js()
+@@alinea.dk#@#+js()
 
