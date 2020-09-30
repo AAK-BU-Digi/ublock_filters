@@ -7,11 +7,9 @@ systematic-momo.dk#@#+js()
 @@systematic-momo.com$all
 @@systematic-momo.com$ghide
 systematic-momo.com#@#+js()
-@@systematic-momo.com/assets/js/newrelic.js
+@@js-agent.newrelic.com/nr-spa-*.min.js$script,domain=systematic-momo.dk
+@@js-agent.newrelic.com/nr-spa-*.min.js$script,domain=systematic-momo.com
 
-@@js-agent.newrelic.com#@#+js()$all
-@@js-agent.newrelic.com@all
-@@js-agent.newrelic.com@ghide
 
 ! Forlag Alinea
 @@alinea.dk$all
