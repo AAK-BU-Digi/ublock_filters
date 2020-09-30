@@ -11,6 +11,7 @@ systematic-momo.com#@#+js()
 
 @@js-agent.newrelic.com#@#+js()$all
 @@js-agent.newrelic.com@all
+@@js-agent.newrelic.com@ghide
 
 ! Forlag Alinea
 @@alinea.dk$all
