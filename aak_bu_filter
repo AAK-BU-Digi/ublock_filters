@@ -10,6 +10,7 @@ systematic-momo.com#@#+js()
 @@systematic-momo.com/assets/js/newrelic.js
 
 @@js-agent.newrelic.com#@#+js()$all
+@@js-agent.newrelic.com@all
 
 ! Forlag Alinea
 @@alinea.dk$all
