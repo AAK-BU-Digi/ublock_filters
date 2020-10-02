@@ -1,17 +1,3 @@
 ! Læringsplatformen MoMo
-@@systematic-momo.dk$all
-@@systematic-momo.dk$ghide
-systematic-momo.dk#@#+js()
-
-@@systematic-momo.com$all
-@@systematic-momo.com$ghide
-systematic-momo.com#@#+js()
 @@js-agent.newrelic.com/nr-spa-*.min.js$script,domain=systematic-momo.dk
 @@js-agent.newrelic.com/nr-spa-*.min.js$script,domain=systematic-momo.com
-
-
-! Forlag Alinea
-@@alinea.dk$all
-@@alinea.dk$ghide
-alinea.dk#@#+js()
-
