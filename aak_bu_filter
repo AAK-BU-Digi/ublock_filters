@@ -2,4 +2,5 @@
 @@js-agent.newrelic.com/nr-spa-*.min.js$script,domain=systematic-momo.dk
 @@js-agent.newrelic.com/nr-spa-*.min.js$script,domain=systematic-momo.com
 
+! Alinea
 @@villeby.alinea.dk/js/*
